@@ -1,0 +1,25 @@
+{
+    "name": "Brett Chaney",
+    "age": 13,
+    "address": {
+        "street": "Hines Points",
+        "city": "Millerchester",
+        "state": "Tennessee",
+        "zip": "81880"
+    },
+    "contact": {
+        "phone": "263.413.8383",
+        "servicePhone": "800972828"
+    },
+    "birthday": "2012-01-09",
+    "ip": "87.103.107.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Better task safe degree oil find. Stage report language drive letter. Either station leader customer eight.",
+        "bio": "Effect PM guy indicate air there over star. Represent represent summer live issue."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
