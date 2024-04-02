@@ -1,0 +1,25 @@
+{
+    "name": "James Gonzalez",
+    "age": 103,
+    "address": {
+        "street": "Osborne Park",
+        "city": "Lake Hannah",
+        "state": "Florida",
+        "zip": "59358"
+    },
+    "contact": {
+        "phone": "328-543-7006",
+        "servicePhone": "800998544"
+    },
+    "birthday": "1922-26-10",
+    "ip": "18.165.219.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Job protect worker one. Nearly rate heavy how.\nMessage including news both data officer. Same agree quite bag long story.",
+        "bio": "With yes peace us see policy travel ability. Think subject artist give step dark. Support myself cover paper culture hospital.\nSoon floor industry could miss. Trip food even."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
