@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Franklin",
+    "age": 18,
+    "address": {
+        "street": "Berry Key",
+        "city": "Port Adrianachester",
+        "state": "North Carolina",
+        "zip": "02108"
+    },
+    "contact": {
+        "phone": "001-566-921-6358x8861",
+        "servicePhone": "800092362"
+    },
+    "birthday": "2007-04-02",
+    "ip": "139.92.176.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Room book player respond class standard morning late. Include nearly feel answer year soldier this. Or service north society husband region call single.",
+        "bio": "State TV call assume someone. But on save involve everyone degree. Radio sister me. Forget actually market public deal medical community line."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
