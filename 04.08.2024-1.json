@@ -1,0 +1,25 @@
+{
+    "name": "Kristi Jones",
+    "age": 63,
+    "address": {
+        "street": "Mitchell Junction",
+        "city": "Lake Barbara",
+        "state": "Arkansas",
+        "zip": "49977"
+    },
+    "contact": {
+        "phone": "846-250-9719x40406",
+        "servicePhone": "800359303"
+    },
+    "birthday": "1962-11-01",
+    "ip": "13.169.235.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Owner instead discussion art yourself. Including in threat never. Live public feeling kind want during develop economic.",
+        "bio": "Build information east. Owner he visit store. Time support simply however they eye buy role.\nAbove truth job never election. Change wonder particularly dog job. Pattern assume trial top edge."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
