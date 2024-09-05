@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Rogers",
+    "age": 11,
+    "address": {
+        "street": "James Manor",
+        "city": "Dustinside",
+        "state": "Mississippi",
+        "zip": "11985"
+    },
+    "contact": {
+        "phone": "9517200452",
+        "servicePhone": "800285452"
+    },
+    "birthday": "2014-03-06",
+    "ip": "49.229.245.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Research everybody movement then win affect teach. Day per onto always.\nParty speak the teach still. Open administration condition including like. Medical care us stay onto surface partner.",
+        "bio": "Strong factor degree adult statement. Hair parent professional on. For no look good field card help. Ago wear north.\nStreet mission where minute. Really else alone page different."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
