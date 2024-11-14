@@ -1,0 +1,25 @@
+{
+    "name": "Edward Ramirez",
+    "age": 66,
+    "address": {
+        "street": "Christine Inlet",
+        "city": "Fischerborough",
+        "state": "Hawaii",
+        "zip": "94168"
+    },
+    "contact": {
+        "phone": "6652356051",
+        "servicePhone": "800568661"
+    },
+    "birthday": "1959-12-07",
+    "ip": "165.26.239.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Later town together happy world lead even. Land idea fly fish check.\nFinancial prepare politics anyone we claim talk. Thus eight to fast reduce.",
+        "bio": "Concern alone operation care record card even. Language until area natural tell consider me. All choice worker part rise song catch other.\nWear person social. Necessary reach himself way."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
