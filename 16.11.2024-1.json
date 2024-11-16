@@ -1,0 +1,25 @@
+{
+    "name": "Sara Davis",
+    "age": 7,
+    "address": {
+        "street": "Michael Common",
+        "city": "Gwendolyntown",
+        "state": "Florida",
+        "zip": "03729"
+    },
+    "contact": {
+        "phone": "(790)232-4198",
+        "servicePhone": "800286367"
+    },
+    "birthday": "2018-12-10",
+    "ip": "64.11.11.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Despite region or we southern finish letter present. Tree marriage sign audience listen. Then final hotel human.\nPolitical white treatment call adult how. Theory position young.",
+        "bio": "Movement claim not because realize. Performance difficult ready scene discussion suddenly continue. Realize paper free financial than follow."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
