@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Nguyen",
+    "age": 60,
+    "address": {
+        "street": "Tammy Run",
+        "city": "Lake Joanne",
+        "state": "Iowa",
+        "zip": "97960"
+    },
+    "contact": {
+        "phone": "(512)816-0027",
+        "servicePhone": "800872167"
+    },
+    "birthday": "1965-11-08",
+    "ip": "184.98.168.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Protect thus cost Democrat ask. Again buy where wonder enter if.\nStatement strong oil toward thought stuff. Present entire member offer rule go.",
+        "bio": "Appear service civil care star fly decade. Practice her hundred another. Author one lawyer school."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
