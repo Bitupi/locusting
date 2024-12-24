@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Miller",
+    "age": 16,
+    "address": {
+        "street": "Ramirez Mountain",
+        "city": "Anthonyborough",
+        "state": "Kansas",
+        "zip": "38022"
+    },
+    "contact": {
+        "phone": "001-474-699-5080x804",
+        "servicePhone": "800950507"
+    },
+    "birthday": "2009-15-06",
+    "ip": "158.77.76.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Under sense data raise white.\nCut condition pattern reason carry our. Reveal pick simple mission. Although trip society sense.\nExpert hospital likely cause. Develop later season.",
+        "bio": "Born smile fast any well no.\nEnough involve company none return respond. Treatment suddenly nice only start father fine."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
