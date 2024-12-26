@@ -1,0 +1,25 @@
+{
+    "name": "Juan Richardson",
+    "age": 45,
+    "address": {
+        "street": "Cox Creek",
+        "city": "Hickstown",
+        "state": "Montana",
+        "zip": "12914"
+    },
+    "contact": {
+        "phone": "001-923-200-5453x9728",
+        "servicePhone": "800234875"
+    },
+    "birthday": "1980-28-05",
+    "ip": "79.200.91.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Nearly movement degree lay. Behind other relationship practice local.\nMust address since economy safe thank. Now yeah security business half boy every.",
+        "bio": "Trouble their chance finish. Mother stand ok leader. Also deal break manager wide rather sea.\nReason event less director teach perhaps either. Truth each soon other."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
